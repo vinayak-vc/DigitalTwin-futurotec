@@ -1,0 +1,16 @@
+{
+    "name": "DigitalTwinFuturotec.Mqtt",
+    "rootNamespace": "ViitorCloud.Games.DigitalTwinFuturotec.Mqtt",
+    "references": [
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
